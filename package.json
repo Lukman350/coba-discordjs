@@ -1,0 +1,21 @@
+{
+  "name": "coba-discordjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "discord.js": "^14.14.1",
+    "mongoose": "^8.1.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.3",
+    "eslint": "^8.56.0"
+  }
+}
